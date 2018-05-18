@@ -23,7 +23,7 @@ Cara Install Self Bot :
 - Ketik -> `ls`
 - Ketik -> `cd SelfBotPython`
 - Ketik -> `ls`
-- Ketik -> `nano Richesb.py
+- Ketik -> `nano Richesb.py`
 - Ketik -> `python Richesb.py`
 
 Cara Menjalankan Bot Kembali :
