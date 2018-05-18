@@ -1,4 +1,4 @@
-# PYTHON3
+# PYTHON
 SELF BOT PYTHON.
 ------
 -
@@ -19,17 +19,17 @@ Cara Install Self Bot :
 - Ketik -> `pip install pytz`
 - Ketik -> `pip install humanfriendly`
 - Ketik -> `pip install googletrans`
-- Ketik -> `git clone https://github.com/Riche69/BotLinePython`
+- Ketik -> `git clone https://github.com/Riche69/SelfBotPython`
 - Ketik -> `ls`
-- Ketik -> `cd BotLinePython`
+- Ketik -> `cd SelfBotPython`
 - Ketik -> `ls`
 - Ketik -> `nano Richesb.py
 - Ketik -> `python Richesb.py`
 
 Cara Menjalankan Bot Kembali :
 ------
-- Ketik -> `cd LineBotPython3`
-- Ketik -> `python3 Nadyasb.py`
+- Ketik -> `cd SelfBotPython`
+- Ketik -> `python Richesb.py`
 
 
 Credit By@ Riche
